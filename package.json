@@ -1,0 +1,22 @@
+{
+  "name": "befolkningspyramide",
+  "version": "1.0.0",
+  "description": "Befolkningspyramiden i bevegelse — innvandring, aldring og fruktbarhet, 1846–2050. Data fra SSB.",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step required for static HTML'",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": [
+    "demografi",
+    "norge",
+    "befolkning",
+    "ssb"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
